@@ -3,6 +3,7 @@ After the game starts, the screen will continue to move downwards. Players need 
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/8c90b696-b101-48c7-8d11-a86a45d0aa25)
 
 Picture 2 If the character lands on the red and black platform (Picture 2), the character will deduct part of the blood volume.
+
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/9ab211a6-6259-4be0-b69c-0deadbc72c1a)
 
 Picture 3 The game will end if the blood volume is deducted to 0 (picture 3), and you can play again.

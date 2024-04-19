@@ -1,11 +1,15 @@
 # SE-project
 After the game starts, the screen will continue to move downwards. Players need to move their characters to a safe platform (Picture 1).
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/8c90b696-b101-48c7-8d11-a86a45d0aa25)
+
 Picture 2 If the character lands on the red and black platform (Picture 2), the character will deduct part of the blood volume.
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/9ab211a6-6259-4be0-b69c-0deadbc72c1a)
+
 Picture 3 The game will end if the blood volume is deducted to 0 (picture 3), and you can play again.
+
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/13c95184-a9b7-44b1-b344-38369a17b9d7)
 ![image](https://github.com/ConnerSio/SE-project/assets/167536437/f36b0355-ecb3-4f78-9bb4-5ff36ff42e7e)
+
 Purpose of the software 1.Which type of software development process is applied? Our game is applied Agile software development process.
 
 2.Why we chose this type? Because we want to ensure the best efficiency for this software development project, streamline the process and reduce costs (e.g. time). The agile software development process allows us to respond very quickly to changes in requirements. For example, users want the game to have a new style, or to link with a certain brand. At this time, we can modify and add codes in the shortest time to meet these new requirements.What we care about is that requirement changes and user feedback can be dynamically managed and integrated into the software in a timely manner.
@@ -20,7 +24,7 @@ Development stage Students who write code officially enter the coding stage. Alt
 
 Testing phase The students who write the code modify the code according to the test results, submit the test after completion, and complete it after passing the test.
 
-Members(roles,responsibilities,portion) Fox is responsible for implementation/design/coding. Nick is responsible for sources/verification Steven is responsible for Software development plan(Algorithm,Current status of your software,Future plan) Michael is responsible for graphical abstract. Connor is responsible for implementation/design/video/development.
+Members(roles,responsibilities,portion) 
 
 Schedule 4.14 Discuss everyone's responsibilities 4.16 Students who write code roughly show the finished product ideas 4.16-4.22 code completion 4.23 Software Testing
 

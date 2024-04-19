@@ -25,9 +25,9 @@ Development stage Students who write code officially enter the coding stage. Alt
 
 Testing phase The students who write the code modify the code according to the test results, submit the test after completion, and complete it after passing the test.
 
-Members(roles,responsibilities,portion) 
+Members(roles,responsibilities,portion) Leo is responsible for implementation/design/coding/responsible for graphical abstract/development. Billy is responsible for sources/verification/design/video .Connor is responsible for implementation/design/Software development plan(Algorithm,Current status of your software,Future plan).
 
-Schedule 4.14 Discuss everyone's responsibilities 4.16 Students who write code roughly show the finished product ideas 4.16-4.22 code completion 4.23 Software Testing
+Schedule 4.5 Discuss everyone’s responsibilities 4.10 Students who write code roughly show their ideas for the finished product 4.11-16 Code completion 4.19 Software testing
 
 Algorithm: Use the direction keys to control the villain left and right to prevent being held up and squeezed to death, falling to death, and being poked to death by a nail board (sharp knife).
 

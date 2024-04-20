@@ -45,4 +45,6 @@ Environments of th software development and running 1.Programming language:C#
 
 Declaration Unity Assets Store: Simple 2D Platformer Assets Pack (palyer, floor) 25 Fantasy RPG Game Tracks Music Pack (background music) Shooting Sound(sounds effects)
 
+demo: https://youtu.be/eflw3Gq4_aI
+
 
